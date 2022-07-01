@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @tomfurst
+- 👀 I’m interested in Blockchain and Bitcoin.
+- 🌱 I’m currently learning C++ and Javascript.
